@@ -1,5 +1,5 @@
 <script>
-import cafe from "C:\Users\anaki\Documents\PaginaWebVue\src\assets\Descripcion\CafeTradicional.jpg"
+import cafe from "C:/Users/anaki/Documents/PaginaWebVue/src/assets/Descripcion/CafeTradicional.jpg"
 
 export default {
     data() {

@@ -1,9 +1,9 @@
 <script>
-import cafe1 from "C:\Users\anaki\Documents\PaginaWebVue\src\assets\Carrusel\cafe1.jpg"
-import cafe2 from "C:\Users\anaki\Documents\PaginaWebVue\src\assets\Carrusel\cafe2.jpg"
-import cafe3 from "C:\Users\anaki\Documents\PaginaWebVue\src\assets\Carrusel\cafe3.jpg"
-import cafe4 from "C:\Users\anaki\Documents\PaginaWebVue\src\assets\Carrusel\cafe4.jpg"
-import cafe5 from "C:\Users\anaki\Documents\PaginaWebVue\src\assets\Carrusel\cafe5.jpg"
+import cafe1 from "C:/Users/anaki/Documents/PaginaWebVue/src/assets/Carrusel/cafe1.jpg"
+import cafe2 from "C:/Users/anaki/Documents/PaginaWebVue/src/assets/Carrusel/cafe2.jpg"
+import cafe3 from "C:/Users/anaki/Documents/PaginaWebVue/src/assets/Carrusel/cafe3.jpg"
+import cafe4 from "C:/Users/anaki/Documents/PaginaWebVue/src/assets/Carrusel/cafe4.jpg"
+import cafe5 from "C:/Users/anaki/Documents/PaginaWebVue/src/assets/Carrusel/cafe5.jpg"
 
 export default {
     data() {
