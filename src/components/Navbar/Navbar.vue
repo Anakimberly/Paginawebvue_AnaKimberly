@@ -1,5 +1,5 @@
 <script>
-import Logo from "C:\Users\anaki\Downloads\Logo.png"
+import Logo from "C:\Users\anaki\Documents\PaginaWebVue\src\assets\Navbar\Logo.png"
 export default {
     data() {
         return {

@@ -1,7 +1,7 @@
 <script>
-import facebook from "C:\Users\anaki\Downloads\facebook.png"
-import instagram from"C:\Users\anaki\Downloads\instagram.png"
-import x from"C:\Users\anaki\Downloads\X.png"
+import facebook from "C:\Users\anaki\Documents\PaginaWebVue\src\assets\PiePagina\facebook.png"
+import instagram from"C:\Users\anaki\Documents\PaginaWebVue\src\assets\PiePagina\instagram.png"
+import x from"C:\Users\anaki\Documents\PaginaWebVue\src\assets\PiePagina\X.png"
 export default {
     data() {
         return {
